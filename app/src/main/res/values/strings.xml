@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewTypes</string>
+    <string name="lbl_btn_list_view_with_out_vh">LIST VIEW WITH OUT VH</string>
+    <string name="lbl_btn_list_view_with_view_holder">LIST VIEW WITH VH</string>
+</resources>

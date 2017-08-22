@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/1934211c2e2e48e1ffb1cdbe3df8b70e8839d63f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc842eb95ffd27c1efe89aeadbedf622b24bcb78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/c4b410d49b8339c808ba9055db0be6ec853e4019/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55109d3303ee8f1dbc410cbeb8edff0c9da8f209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/577253b6b1470331db9cff84f908616283ebd11d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d65aa0f4da53dc2d2499a2a601005050bc308b4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/e94ba20b4d48f9a2406ea78675b8d37335e83e0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74e1db3806b603608a421aded9beb7e7ac8a3811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/3af1d0e82e89a0b2b968661065aae90d5ee592bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16ebddad7c961469bd1ebfef65f39ccbf1814091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/Documents/AndroidSDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8c02c564502b7b78e00c0a9de3968365c5f1264b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/cc4c1175e762c3a283bd19e36d1d3e7bcddf8430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b176b9899fadef6d7cc5fc92f00d664e722002ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7218cde69122c1d248178a97d5325a19cd81404e">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01d737cf7d4e35022b661718a72295103424aac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/c520713450613bdcf126a946289017e4032c9c5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d27175906ba2fbdb3a6ff8b5cd9b9b69b0c140e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/6e6e27e57cda2e7d5d85f0fca439084e05e98dd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b9ea9af8e4c1ace2598ccbee3874ed98d82da5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/5e2c826caa14c7fe5f676de19e8f86f1a79692c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a98422f2ec1a6399afa3fc554519b3b013603f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aabe63d18e809343558480ed9dad48f06c069b48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/.android/build-cache/5181968b8da140acd3987eb94cde9c9ebae3d9ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee8f9f4535eb0c8b1e1d5d7eecb8458e0733c26e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tony/Documents/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/tony/Documents/AndroidTrainning/CodeLabTestGoogle/ListViewTypes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_01c63f17429bd789ab5e6b158f973dc5a0cdef73/classes.dex" />
+    </item>
+
+</items>
